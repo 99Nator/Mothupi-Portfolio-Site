@@ -1,0 +1,84 @@
+
+@media (max-width: 600px) and (min-width: 1200px) {
+    .personal_details, .professional_summary, .education, .projects{
+        width: 100%;
+        margin: 10px 0;
+    }
+    img{
+        height: 15vh;
+        border-radius: 50%;
+        padding: 5px;
+    }
+}
+
+
+
+header{
+    font: serif;
+    background-color: #280905;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    height: 300px;
+}
+
+.personal_details{
+    background-color: #F7D87F;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.professional_summary{
+    background-color: #F7D87F;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+.professional-summary-paragraph{
+    text-align: center;
+    line-height: 1.5;
+    width: 80%;
+    padding-left: 10%;
+}
+
+.education{
+    background-color: #F7D87F;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.projects{
+    background-color: #F7D87F;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+footer{
+    background-color: #280905;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    height: 18vh;
+    border-radius: 50%;
+    rotate: 90deg;
+    padding: 25px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:maroon;
+
+}
